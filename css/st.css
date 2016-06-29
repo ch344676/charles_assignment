@@ -1,0 +1,72 @@
+.banner{
+width:695px;
+height:231px;
+}
+header h1{
+text-indent:-9999px;
+text-align:left;
+}
+.container_12{
+	background:grey;
+	
+	
+}
+
+nav ul{
+	text-align:right;
+	text-decoration:none;
+}
+a{
+	text-decoration:none;
+	text:whie;
+	
+}
+nav ul li
+{
+	display: inline; 
+	text-decoration:none;
+	color:black;
+}
+.grid_4 img
+{
+	height:250px0px;
+	width:250px;
+}
+img{height:200px;
+	width:300px;
+}
+.grid_12 img
+{
+height:400px;
+width:960px;
+background-color:green;
+}
+.cn img
+{
+height:100px;
+width:200px;
+}
+footer ul
+{
+background-color:green;	
+}
+ul {
+	overflow: auto;
+}
+
+ul li {
+	list-style-type: none;
+	float: right;
+}
+
+ul li a i {
+	background: #205D7A;
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+	font-size: 25px;
+	text-align: center;
+	margin-right: 10px;
+	padding-top: 15%;
+}
